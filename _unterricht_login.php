@@ -1,6 +1,7 @@
 <?php
 	session_start();
 ?>
+<!-- Kommentar -->
 
 <html>
 	<head><title>Login</title></head>
